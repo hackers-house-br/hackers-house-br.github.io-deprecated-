@@ -1,5 +1,3 @@
-# hackers-house-br.github.io
-
 # Depreciado
 
 Este repositório foi depreciado, tdevido ao lançamento do site oficial da comunidade hhbr.
