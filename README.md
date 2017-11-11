@@ -1,16 +1,13 @@
 # hackers-house-br.github.io
 
-Repositório oficial do site para o canal no Youtube [HHBR](https://www.youtube.com/channel/UCh1xOy7SP_KyRn4wTNVvFHw)
+# Depreciado
 
-O Site será constantemente atualizado com todas as palestras já realizadas no canal, fincando ainda mais fácil encontrar os episódios, e também mantendo presença na web.
+Este repositório foi depreciado, tdevido ao lançamento do site oficial da comunidade hhbr.
 
-# Contribuições
-
-Caso você seja um design, desenvolvedor front end e tenha interesse em melhorar o layout do site, sinta-se a vontade para fazer um fork e mandar seu pull request :)
-
-Caso tenha alguma dúvida ou sugestão, por favor utilize as issues para fazer o registro.
+Abaixo segue links e formas para contato.
 
 # Contato do canal
- - E-mail: hackershousebr@gmail.com
- - Twitter: [@hackershousebr](twitter.com/hackershousebr)
+ - ## Site Oficial: [http://hhbr.net.br](http://hhbr.net.br)
+ - ## E-mail: hackershousebr@gmail.com
+ - ## Twitter: [@hackershousebr](twitter.com/hackershousebr)
 
